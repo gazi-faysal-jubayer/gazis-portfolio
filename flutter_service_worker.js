@@ -3,9 +3,9 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8bf69274d41416d1b6e09cb2c0f236b1",
-"assets/AssetManifest.bin.json": "db40717ce62fe6383689a52edec0a42b",
-"assets/AssetManifest.json": "511bcb49c2c72c05f32bbb51a586737d",
+const RESOURCES = {"assets/AssetManifest.bin": "78282719ebd96a225da089411c95a3ac",
+"assets/AssetManifest.bin.json": "7c21195ac96034e3222b0fc273b794fa",
+"assets/AssetManifest.json": "b9fde02b36d1c8b475e37bc602a5ea83",
 "assets/assets/icons/behance.svg": "1487dff57f5c15131037cb6965a4d0bf",
 "assets/assets/icons/check.svg": "bce7a581bb999caac446c9138a57a401",
 "assets/assets/icons/download.svg": "8c24d4679cb0c5297277321bf7b65d28",
@@ -15,7 +15,6 @@ const RESOURCES = {"assets/AssetManifest.bin": "8bf69274d41416d1b6e09cb2c0f236b1
 "assets/assets/icons/linkedin.svg": "2f5e837978e8a6bb595dfd11c8dbd42f",
 "assets/assets/icons/twitter.svg": "c09d9f98cb67b0dfc2aa4c63170f2632",
 "assets/assets/images/bg.jpg": "db89ce1cde51a34557dfe8c34b682c04",
-"assets/assets/images/bg.png": "ef05397435bc7b5a1ff6b7cd55816468",
 "assets/assets/images/My%2520Cv.pdf": "2deb0160cafa013ed48511d5f844be76",
 "assets/assets/images/my_pic.jpg": "911f68483bb4e99a2f465a026c0b663e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
@@ -39,8 +38,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "8bf69274d41416d1b6e09cb2c0f236b1
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "ea761632c48c68f2cadae15bcacd1a48",
-"/": "ea761632c48c68f2cadae15bcacd1a48",
+"index.html": "ca308e8109cc2702a3782760d9b83647",
+"/": "ca308e8109cc2702a3782760d9b83647",
 "main.dart.js": "cea2a16bfae3ffbabbc5040f1ff26a1b",
 "manifest.json": "8675bcee57795447d455087b7cf66a6a",
 "version.json": "1dcd513c059d007196c32948d51bd417"};
