@@ -71459,7 +71459,7 @@ return A.iE(A.a([this.c,A.iG(s,s,10),A.cr(this.d,s,s,A.a4(a).p3.x,s)],t.p),B.a2,
 A.Fq.prototype={
 N(a){return new A.dO(B.cQ,A.bO(a,null,t.w).w.a.a<=700?B.C1:B.K7,null)}}
 A.Fs.prototype={
-N(a){var s=null,r=t.w,q=A.bO(a,s,r).w.a.a<=500?1.6:3,p=A.axV(s,s,new A.oX("assets/images/bg.png",s,s)),o=A.f7(s,s,B.q,A.a0(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p
+N(a){var s=null,r=t.w,q=A.bO(a,s,r).w.a.a<=500?1.6:3,p=A.axV(s,s,new A.oX("assets/images/bg.jpg",s,s)),o=A.f7(s,s,B.q,A.a0(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p
 return new A.tI(q,A.JJ(B.dL,A.a([new A.vr(p,B.jo,s),o,new A.dO(B.CS,A.f5(A.a([A.cr("Discover my Amazing \nArt Space!",s,s,A.bO(a,s,r).w.a.a>=1024?A.a4(a).p3.c.KH(B.i,B.b5):A.a4(a).p3.f.KH(B.i,B.b5),s),B.wb,B.Il,B.b9,new A.KE(12,12,A.a([this.Eo(a,B.DJ,"WhatsApp",new A.Z8()),this.Eo(a,B.l2,"Email",new A.Z9())],n),s)],n),B.al,B.HD),s)],n),B.LM),s)},
 Eo(a,b,c,d){var s,r=null,q=A.bO(a,r,t.w).w.a.a<=700,p=q?12:40,o=q?12:20
 p=A.avt(r,r,B.bC,r,r,r,r,r,r,B.zE,r,r,new A.bb(p,o,p,o),r,new A.cp(A.Uh(q?20:8),B.n),r,r,r,r)
